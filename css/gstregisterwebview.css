@@ -141,6 +141,8 @@
 
 }
 .card-header{
+    padding: 0;
+    
     padding-bottom: 5px;
     font-size: 15px;
     color: #01355D;
@@ -150,9 +152,9 @@
 }
 .card-body{
     padding-top: 0;
-    padding-left: 45px;
+    padding-left: 47px;
     padding-right: 50px;
-    font-size: 10px;
+    font-size: 12px;
     font-family: Gotham-book;
     line-height: 1.1;
 }
@@ -316,4 +318,13 @@
     display: flex;
     margin: 0;
     justify-content: center;
+}
+
+.card-header img{
+    width: 18px !important;
+}
+@media (max-width: 322px ){
+    .card-header img{
+        width: 15px !important;
+    }
 }
