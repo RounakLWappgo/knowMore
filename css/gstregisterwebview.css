@@ -7,6 +7,10 @@
     font-family: Gotham-bold;
     src: url(/css/Gotham\ Bold.otf);
   }
+  @font-face {
+    font-family: Gotham-book;
+    src: url(/css/Gotham_Book.otf);
+  }
   
 .p-color {
     color: #01355D;
@@ -142,12 +146,15 @@
     color: #01355D;
     font-family: Gotham;
     font-weight: 500;
-    padding-bottom: 10px;
+    
 }
 .card-body{
     padding-top: 0;
     padding-left: 50px;
     padding-right: 50px;
+    font-size: 10px;
+    font-family: Gotham-book;
+    line-height: 1.1;
 }
 
 
@@ -228,7 +235,7 @@
 }
 
 .double-line-li{
-    width: 180px;
+    width: 200px;
     line-height: 0.9;
 }
 
