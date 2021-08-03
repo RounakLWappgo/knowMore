@@ -141,7 +141,7 @@
 
 }
 .card-header{
-    padding: 0;
+    padding-bottom: 5px;
     font-size: 15px;
     color: #01355D;
     font-family: Gotham;
@@ -249,16 +249,16 @@
 }
 
 .double-line-li{
-    width: 250px;
-    line-height: 1;
+    width: 200px;
+    line-height: 1.2;
 }
 
 /* .double-line-li span{
     margin-left: 25px;
 } */
 .double-line-li2{
-    width: 250px;
-    line-height: 1;
+    width: 200px;
+    line-height: 1.2;
 }
 /* .double-line-li2 span{
     margin-left: 20px;
