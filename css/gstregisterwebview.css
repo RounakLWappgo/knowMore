@@ -17,8 +17,8 @@
     font-family: Gotham;
     font-weight: 900;
     font-size: 15px;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
     margin-top: 15%;
 }
 
@@ -195,7 +195,7 @@
 
   .owl-carousel .owl-item img {
     display: inline-block;
-    width: 20px;
+    width: 15px;
     -webkit-transform-style: preserve-3d;
 }
 
@@ -240,12 +240,16 @@
 }
 
 .double-line-li span{
-    margin-left: 30px;
+    margin-left: 25px;
 }
 .double-line-li2{
     width: 230px;
     line-height: 0.9;
 }
 .double-line-li2 span{
-    margin-left: 30px;
+    margin-left: 20px;
+}
+
+.faq-btn{
+    display: flex;
 }
