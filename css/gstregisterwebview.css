@@ -249,20 +249,20 @@
 }
 
 .double-line-li{
-    width: 200px;
-    line-height: 0.9;
+    width: 250px;
+    line-height: 1;
 }
 
-.double-line-li span{
+/* .double-line-li span{
     margin-left: 25px;
-}
+} */
 .double-line-li2{
-    width: 230px;
-    line-height: 0.9;
+    width: 250px;
+    line-height: 1;
 }
-.double-line-li2 span{
+/* .double-line-li2 span{
     margin-left: 20px;
-}
+} */
 
 .faq-btn{
     display: flex;
