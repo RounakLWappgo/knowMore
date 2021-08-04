@@ -1,0 +1,102 @@
+<div class="typeofformmaincontentdiv">
+					<div class="GSTR-1content">
+						<p class="typeformcontentheading">GSTR-1</p>
+						<p class="typeformcontenttext">The GSTR-1 is a monthly return form filed by businesses to report
+							the details of the outward supplies of all services and goods. Every GST-registered entity
+							should file GSTR-1 except Input service distributor and Composition taxpayer. It must be
+							filed even if there is no business activity. The due date for filing GSTR-1 is 10th of every
+							month.<br><br> The GSTR 1 acts as the base on which all other form submissions can be made
+							for the month.</p>
+					</div>
+					<div class="GSTR-2Acontent" style="display: none;">
+						<p class="typeformcontentheading">GSTR-2A</p>
+						<p class="typeformcontenttext">GSTR-2A is the return of details of all the inward supplies of
+							goods/services, that is, purchases made by registered suppliers. This form is filed by the
+							15th of every month. GSTR-2A is auto populated where the data will be fetched from the
+							GSTR-1 filed by the supplier. It is a read-only return and cannot be edited.</p>
+					</div>
+					<div class="GSTR-2content" style="display: none;">
+						<p class="typeformcontentheading">GSTR-2</p>
+						<p class="typeformcontenttext">GSTR-2 is the return filed to furnish the details of all the
+							inward supplies of goods/services. This form can be edited but the filing has been suspended
+							by the government.</p>
+					</div>
+					<div class="GSTR-3Bcontent" style="display: none;">
+						<p class="typeformcontentheading">GSTR-3B</p>
+						<p class="typeformcontenttext">It is a summarized monthly return of all the details of inward
+							and outward supplies, input tax credits and the details of all the GST liabilities. It is a
+							self-declaration form filed by all taxpayers for every tax period.<br><br> The due date for
+							filing GSTR-3B return form is 20th normally. However, the date may be changed if there are
+							any government notifications.</p>
+					</div>
+					<div class="GSTR-4content" style="display: none;">
+						<p class="typeformcontentheading">GSTR-4</p>
+						<p class="typeformcontenttext">GSTR-4 is filed every year by all taxpayers under the GST
+							composition scheme. Businesses should provide a summary of the outward supplies and all the
+							taxes paid thereon, details of import of services and supplies that may attract reverse
+							charge.<br><br> The due date for filing this form is the 30th of the month succeeding the
+							financial year.</p>
+					</div>
+					<div class="GSTR-5content" style="display: none;">
+						<p class="typeformcontentheading">GSTR-5</p>
+						<p class="typeformcontenttext">This form is filed by all non-resident taxpayers registered in
+							India and carry out business operations in India. In the GSTR-5 return, businesses should
+							furnish the details of all the inward and outward supplies and the tax liabilities. This
+							form is to be submitted on a monthly basis and has to be filed by every month on the 20th.
+						</p>
+					</div>
+					<div class="GSTR-5Acontent" style="display: none;">
+						<p class="typeformcontentheading">GSTR-5A</p>
+						<p class="typeformcontenttext">Form GSTR-5A is furnished by service providers of Online
+							Information and Database Access or Retrieval (OIDAR). It is filed to declare the services
+							provided to unregistered entities or individuals, from a place outside India to a person in
+							India. It is a monthly return filed by the 20th of every month.</p>
+					</div>
+					<div class="GSTR-6Acontent" style="display: none;">
+						<p class="typeformcontentheading">GSTR-6A</p>
+						<p class="typeformcontenttext">GSTR-6A form is a system generated “draft” Statement of Inward
+							Supplies for a Receiver Taxpayer. It is a read-only form.</p>
+					</div>
+					<div class="GSTR-6content" style="display: none;">
+						<p class="typeformcontentheading">GSTR-6</p>
+						<p class="typeformcontenttext">The Input Service provider generates and files GSTR-6 only after
+							all details furnished in GSTR 6A are accepted and verified. This is done on the 13th of
+							every month.</p>
+					</div>
+					<div class="GSTR-7content" style="display: none;">
+						<p class="typeformcontentheading">GSTR-7</p>
+						<p class="typeformcontenttext">GSTR-7 is filed by the entities who deduct tax at the time of
+							making payment to the suppliers for purchase, that is, inward supplies received.<br><br>
+							GSTR-7 form contains details of Tax deducted at source (TDS) under GST, the tax liability,
+							and TDS refund.<br><br> GSTR7 must be filed on the 10th of the subsequent month</p>
+					</div>
+					<div class="GSTR-7Acontent" style="display: none;">
+						<p class="typeformcontentheading">GSTR-7A</p>
+						<p class="typeformcontenttext">GSTR 7A is better known as the TDS certificate which is generated
+							as soon as the GSTR filing in done by the tax deductor in Form GSTR-7. The assessee uses it
+							for keeping records</p>
+					</div>
+					<div class="GSTR-8content" style="display: none;">
+						<p class="typeformcontentheading">GSTR-8</p>
+						<p class="typeformcontenttext">The form GSTR-8 is filed by e-commerce businesses who collect tax
+							at source (TCS) to furnish the details of the supplies made through the e-commerce
+							platform.<br><br> It is filed on the 10th of every month.</p>
+					</div>
+					<div class="GSTR-9content" style="display: none;">
+						<p class="typeformcontentheading">GSTR-9</p>
+						<p class="typeformcontenttext">The GSTR 9 form is filed annually by entities to furnish the
+							details of all purchases, sales, input tax credit or refund claimed or demand created etc.
+							GSTR-9 is filed by normal taxpayers, SEZ unit, SEZ developer, OIDAR service providers, and
+							the taxpayers who have withdrawn from the composition scheme to normal taxpayers.<br><br>
+							Annual return purposes. It has to be duly filled by all taxpayers by the coming financial
+							year 31st. This mainly consists of all the details of the 12 GSTR3 filed during the
+							financial year.</p>
+					</div>
+					<div class="GSTR-9Acontent" style="display: none;">
+						<p class="typeformcontentheading">GSTR-9A</p>
+						<p class="typeformcontenttext">GSTR-9A is filed by entities who have opted for composition
+							scheme any time during the financial year. The details furnished in GSTR-9A are inward and
+							outward supplies, taxes paid, demand created, refund, input tax credit availed or reversed.
+						</p>
+					</div>
+				</div>
